@@ -23,4 +23,4 @@
 
 
 ## START PROJECT
---   npm run start
+--   npm run dev
